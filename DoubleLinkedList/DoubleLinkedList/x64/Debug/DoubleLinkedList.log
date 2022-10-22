@@ -1,0 +1,4 @@
+﻿  DoubleLinkedList.c
+D:\6월 C언어 자료구조 저장소\DoubleLinkedList\DoubleLinkedList\DoubleLinkedList.c(30,31): warning C4047: '=': 'Node *'의 간접 참조 수준이 'DLinkedList **'과(와) 다릅니다.
+D:\6월 C언어 자료구조 저장소\DoubleLinkedList\DoubleLinkedList\DoubleLinkedList.c(18): warning C4716: 'GetNode': 값을 반환해야 합니다.
+  DoubleLinkedList.vcxproj -> D:\6월 C언어 자료구조 저장소\DoubleLinkedList\x64\Debug\DoubleLinkedList.exe

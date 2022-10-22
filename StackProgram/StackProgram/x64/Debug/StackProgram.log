@@ -1,0 +1,4 @@
+﻿  인원관리 프로그램.c
+D:\6월 C언어 자료구조 저장소\StackProgram\StackProgram\인원관리 프로그램.c(25,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\6월 C언어 자료구조 저장소\StackProgram\StackProgram\인원관리 프로그램.c(76,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  StackProgram.vcxproj -> D:\6월 C언어 자료구조 저장소\StackProgram\x64\Debug\StackProgram.exe
